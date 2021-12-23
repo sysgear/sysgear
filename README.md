@@ -1,4 +1,4 @@
-### Hi there 👋
+👋
 
 - 😄 Hi, I'm @sysgear
 - 👯 My career interests are Data Science, Data Analysis, Data Visulization associating with Product Management, Market Analysis, or Program Management
